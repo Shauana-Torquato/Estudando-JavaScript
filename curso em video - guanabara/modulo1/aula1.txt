@@ -18,3 +18,10 @@ requisitos
 
 // uma unica linha
 /* mais de uma linha */
+
+vaga a1  recebe carro 1
+vaga a1 = carro 1
+     a1 = carro 2
+     a1 = null
+
+o nome da variável é chamado de identificador 
