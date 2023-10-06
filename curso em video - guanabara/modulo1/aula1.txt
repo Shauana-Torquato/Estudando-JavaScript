@@ -16,3 +16,5 @@ requisitos
 	editor vs code
 	node.js
 
+// uma unica linha
+/* mais de uma linha */
