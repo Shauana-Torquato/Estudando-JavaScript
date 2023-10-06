@@ -1,0 +1,18 @@
+client x server
+
+javascript é uma tecnologia para clientes 
+
+website composto basicamente por tres tecnologias
+	html	ressponsável pelo conteúdo - conteúdo
+	css	responsável pelo designer - estilo
+	javascript	responsável pela engenharia de funcionamento em si - interação
+
+javascript é linguagem de programação, html e css não, são linguagens de marcação
+
+
+requisitos
+
+	navegador - google chrome
+	editor vs code
+	node.js
+
