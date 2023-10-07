@@ -25,3 +25,5 @@ vaga a1 = carro 1
      a1 = null
 
 o nome da variável é chamado de identificador 
+
+to parando aqui no meio da aula seis
